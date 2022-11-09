@@ -1,6 +1,6 @@
 {
     "name": "mahdi",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "Mahdi Taghizadeh <mahdi@hey.com> (https://mahdi.uk)",
     "description": "A personal card for Mahdi Taghizadeh",
     "main": "card.js",
